@@ -22,7 +22,7 @@
 
 • react-router-dom
 
-• axios
+• axios.
 
 • font-awesome
 
@@ -30,7 +30,7 @@
 
 ### Backend:
 
-• express
+• Express
 
 • mongoose
 
