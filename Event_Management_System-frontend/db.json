@@ -1,0 +1,220 @@
+{
+    "TechnicalEvent":[
+        {
+            "EventName":"Codestrike",
+            "EventImage":"https://static.wixstatic.com/media/5f01c5_c2755a52d814481ebd3297ada5fb0e18~mv2.jpg/v1/fill/w_1795,h_1141,al_c/5f01c5_c2755a52d814481ebd3297ada5fb0e18~mv2.jpg",
+            "Introduction":"CodeStrike is a Competitive Programming contest hosted online. Programmers may take up any language of their choice",
+            "Date":"15 august 2022",
+            "Time":"9 am to 11 am",
+            "Platform":"Hackerrank",
+            "Participant":2,
+            "Prize1":1000,
+            "Prize2":500,
+            "Fees":100,
+            "Rule1":"This competition is a competitive programming contest hosted online",
+            "Rule2":"Time limit is 2 hours",
+            "Rule3":"Plagiarism is strictly Prohibited",
+            "Rule4":"If codes of 2 people are found, the same points will be deducted",
+            "Rule5":"Programmers may take up any language of their choice.(C,C++,Python,Java,JavaScript etc)"
+        },
+        {
+            "EventName":"Ninja Coding",
+            "EventImage":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7368c657680979.59df3b271b1f5.jpg",
+            "Introduction":"Ninja Coding has 2 Rounds which will test your Knowledge of Competitive Programing,Debugging Skills and Reverse Coding Ability.",
+            "Date":"15 august 2022",
+            "Time":"1 pm to 3 pm",
+            "Platform":"Hackerrank",
+            "Participant":1,
+            "Prize1":500,
+            "Prize2":300,
+            "Fees":50,
+            "Rule1":"It is an individual event",
+            "Rule2":"The Participant will be given a pre-written code with some errors in it.",
+            "Rule3":"Participant has to make minimum changes in the code so as to make it satisfy all the test cases and generate the desired output",
+            "Rule4":"Round 1(Bug Off):1 hour",
+            "Rule5":"Round 2(Reverse Coding):1 hour"
+        },
+        {
+            "EventName":"ToDo App Contest",
+            "EventImage":"https://img2.apksum.com/ea/com.remind.tasks.reminder.widget.todo.app/2.6/icon.png",
+            "Introduction":"ToDo App Contest has 1 Rounds which will test your Knowledge of React,Redux",
+            "Date":"15 august 2022",
+            "Time":"9 am to 10 am",
+            "Platform":"Codejudge",
+            "Participant":1,
+            "Prize1":1000,
+            "Prize2":700,
+            "Fees":50,
+            "Rule1":"It is an individual event",
+            "Rule2":"This competition is a competitive coding competition hosted online",
+            "Rule3":"Plagiarism is strictly Prohibited",
+            "Rule4":"Entries should be online booked or pre-registered ",
+            "Rule5":"Judging will be done by Indusrty experts from various domains"
+        },
+        {
+            "EventName":"E-commerce Clone event",
+            "EventImage":"https://www.brsoftech.com/br-shopping/images/amazon-clone.png",
+            "Introduction":"Website cloning is a process that involves creating a modified or complete copy of a website. This process is useful to web designers who want to create a website similar to another without having to write a completely new script",
+            "Date":"15 august 2022",
+            "Time":"9 am to 1 pm",
+            "Platform":"Codejudge",
+            "Participant":6,
+            "Prize1":10000,
+            "Prize2":5000,
+            "Fees":500,
+            "Rule1":"It is a group event(limit-6 people",
+            "Rule2":"You will be given E-commerce Website and you have to implement all the functionality of the same website",
+            "Rule3":"It is mandatory to submit the project link and demonstration video along with the ppt.",
+            "Rule4":"Those Qualifying for the final round would be given a chance to present their project in front of a panel of judges",
+            "Rule5":"Judging will be done by Indusrty experts from various domains"
+        }
+    ],
+    "Non-TechnicalEvent":[
+        {
+            "EventName":"Talk of titans",
+            "EventImage":"https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Debate_Logo.svg/1559px-Debate_Logo.svg.png",
+            "Introduction":"The Talk of Titans is a debate competition which tests your communication skills consists of Extempore, Group Discussion and The Ultimate Debate",
+            "Date":"15 august 2022",
+            "Time":"10 am to 11 am",
+            "Platform":"MS Teams",
+            "Participant":1,
+            "Prize1":1000,
+            "Prize2":500,
+            "Fees":50,
+            "Rule1":"Each participant will be given a maximum of 2 minutes to speak on their given topic.",
+            "Rule2":"Each participant will be shown their topic 2 minutes prior to their turn and will have 2 minutes to prepare for the same.",
+            "Rule3":"Exceeding the time constraint will result in significant reduction in marks.",
+            "Rule4":"The participants will be judged on the clarity of the ideas and views they contribute to the discussion, their oratory skills",
+            "Rule5":"Judging will be done by Indusrty experts from various domains"
+        },
+        {
+            "EventName":"Campus to Corporate",
+            "EventImage":"https://www.theeducationtree.com/images/c-to-c-icon.png",
+            "Introduction":"Campus to Corporate",
+            "Date":"15 august 2022",
+            "Time":"3 pm to 5 pm",
+            "Platform":"Codejudge",
+            "Participant":1,
+            "Prize1":1500,
+            "Prize2":1000,
+            "Fees":100,
+            "Rule1":"It is an individual event",
+            "Rule2":"The Webcam should be on",
+            "Rule3":"Participant must dress in formal attire",
+            "Rule4":"We expect that the participant has a resume along with her/him",
+            "Rule5":"Professinal Decorum is to be maintained throughout the interview process"
+        },
+        {
+            "EventName":"Shark Tank",
+            "EventImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-uPQKiGcFDL9GO6Uhwv76S-yLBevVXY3F5w&usqp=CAU",
+            "Introduction":"If you have an innovative idea, this is the opportunity to express and work upon the next Fortune 500 aiming to change the world",
+            "Date":"15 august 2022",
+            "Time":"9 am to 10 am",
+            "Platform":"Google Form",
+            "Participant":4,
+            "Prize1":10000,
+            "Prize2":7000,
+            "Fees":500,
+            "Rule1":"This is a group event for the 1 to 4 participants",
+            "Rule2":"After the registration the participants would receive a google form via registerd email id",
+            "Rule3":"All the Participants are required to submit asap",
+            "Rule4":"within the next 2 days  the participants would be informed about their Screening Test results",
+            "Rule5":"No external intervention will be allowed and the judges decision is final and no changes would be made thereafter"
+        }
+        
+    ],
+    "Courses": [
+        {
+            "CourseName":"Data Structure and Algorithms",
+            "University":"University of California San Diego",
+            "UniversityImage":"https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/1200px-University_of_California%2C_San_Diego_seal.svg.png",
+            "CourseImage":"https://www.synergisticit.com/wp-content/uploads/2020/09/How-Data-Structures-and-Algorithms-are-important-for-Computer-Science-Graduates.jpg",
+            "Skill":"Data Structures,Algorithms,Data Management",
+            "Type":"Beginner-Course"
+        },
+        {
+            "CourseName":"JavaScript Basics",
+            "University":"University of California,Davis",
+            "UniversityImage":"https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/01104758/University-of-California-Davis-400x400.jpg",
+            "CourseImage":"https://www.tutorialrepublic.com/lib/images/javascript-illustration.png",
+            "Skill":"Javascript Syntax,Data Structure,Theoretical Concept",
+            "Type":"Beginner-Course"
+        },
+        {
+            "CourseName":"HTML,CSS,and Javascript for Web Developers",
+            "University":"Johns Hopkins University",
+            "UniversityImage":"https://www.orissapost.com/wp-content/uploads/2021/08/Johns-Hopkins-university.jpeg",
+            "CourseImage":"https://developerpitstop.com/wp-content/uploads/2021/08/html-css-js.jpeg",
+            "Skill":"HTML and CSS,Web Develpoment,Web",
+            "Type":"Mixed-Course"
+        },
+        {
+            "CourseName":"IBM Full Stack Software Developer",
+            "University":"IBM",
+            "UniversityImage":"https://pbs.twimg.com/profile_images/1493921227542568962/GjftIwHN_400x400.jpg",
+            "CourseImage":"https://www.codingbytes.com/wp-content/uploads/2022/03/full-stack-web-development.jpg",
+            "Skill":"Application Development,Backend Web Development,Blockchain",
+            "Type":"Beginner-Professional Certificate"
+        },
+        {
+            "CourseName":"Introduction to Front-End Development",
+            "University":"Meta",
+            "UniversityImage":"https://static.dezeen.com/uploads/2021/11/meta-facebook-rebranding-name-news_dezeen_2364_col_hero2.jpg",
+            "CourseImage":"https://www.namasteui.com/wp-content/uploads/2018/08/front-end-web-development.jpg",
+            "Skill":"Web Development Tools,Business Psychology,Computer Architecture",
+            "Type":"Advance-Course"
+        },
+        {
+            "CourseName":"Google UX Design",
+            "University":"Google",
+            "UniversityImage":"https://pbs.twimg.com/profile_images/1455185376876826625/s1AjSxph_400x400.jpg",
+            "CourseImage":"https://distantjob.com/wp-content/uploads/2021/03/ux-ui-developer-vs-ui-uk-designer.png",
+            "Skill":"Accounting, Advertising, Analysis,Brand Management",
+            "Type":"Beginner-Professional Certificate"
+        },
+        {
+            "CourseName":"Responsive Website Development and Design",
+            "University":"University of London",
+            "UniversityImage":"https://pbs.twimg.com/profile_images/1410899973366034433/qF4mToGA_400x400.jpg",
+            "CourseImage":"https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/777417/Responsive_Design-1200x628-cf29128a0de1b39f50f54b703e491b7a-d1539e7beb483b5f54cb20c84f6ed2f4.png",
+            "Skill":"Computer Programming,Business Psychology,Computer Architecture",
+            "Type":"Beginner-Specialization"
+        },
+        {
+            "CourseName":"Cloud Application Development Foundation",
+            "University":"IBM",
+            "UniversityImage":"https://pbs.twimg.com/profile_images/1493921227542568962/GjftIwHN_400x400.jpg",
+            "CourseImage":"https://www.thebalancesmb.com/thmb/opn3cUYAX4Mib7p9DnnFix0b9jE=/3437x2578/smart/filters:no_upscale()/cloud-computing-502462262-5ac1130e119fa800371ba0a8.jpg",
+            "Skill":"Back-end Web Development, Blockchain,Cloud Applications",
+            "Type":"Beginner-Specialization"
+        },{
+            "CourseName":"Python for Everybody",
+            "University":"University of Michigan",
+            "UniversityImage":"https://thumbs.dreamstime.com/b/entrance-sign-to-university-michigan-ann-arbor-mi-usa-october-campus-105908050.jpg",
+            "CourseImage":"https://5.imimg.com/data5/JO/MI/MY-14645284/python-developer-500x500.png",
+            "Skill":"Application Programming, Interfaces,Computational logic",
+            "Type":"Beginner-Course"
+        },
+        {
+            "CourseName":"Java Programming:Solving Problems with Software",
+            "University":"Duke University",
+            "UniversityImage":"https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Duke_University_seal.svg/1200px-Duke_University_seal.svg.png",
+            "CourseImage":"https://i.ytimg.com/vi/rlOfNsoHlMk/maxresdefault.jpg",
+            "Skill":"Syntax,Software,Enterpreneurship",
+            "Type":"Beginner-Course"
+        },
+        {
+            "CourseName":"Build Your First Android App",
+            "University":"The State University of New York",
+            "UniversityImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/SUNY_brandmark.svg/1200px-SUNY_brandmark.svg.png",
+            "CourseImage":"https://static.toiimg.com/thumb/msid-84847748,imgsize-44422,width-400,resizemode-4/84847748.jpg",
+            "Skill":"Android Studio,Android Development",
+            "Type":"Mixed-Course"
+        }
+    ],
+    "IndustryTalk":[
+        {
+              
+        }
+]
+}
