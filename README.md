@@ -30,7 +30,10 @@ Before running the application, make sure you have the following software instal
 
 ## Getting Started
 
+
 To get started with Eventio, follow these steps:
+=======
+
 
 1. Clone the project repository.
 2. Change into the project directory.
@@ -40,8 +43,11 @@ To get started with Eventio, follow these steps:
 
 The application requires configuration for the database connection and other settings. Follow these steps to configure the application:
 
+
 1. Copy the provided example configuration file.
 2. Modify the configuration values according to your environment.
+=======
+
 
 ## Running the Application
 
